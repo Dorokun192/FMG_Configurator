@@ -34,7 +34,7 @@ Also add buttons and textblocks naming them according to their function.
 
 The end result should look like this:
 
-![](img/mainwindow2.png "Main Window b4 connection")
+![](img/MainWindow2.png "Main Window b4 connection")
 
 > When the app is connected to the device, and the instruction was followed, the instruction will disappear, *DevID* will be replaced by the actual device id, and both *Net. Settings* and *Modbus* buttons will be enabled.
 
@@ -189,3 +189,5 @@ Once the data has been received we enable the buttons, change the value of textb
 
 We now have finished creating the mainWindow! Good job!
 Only a few more windows to go, and we will be finished before you can say **"I need help and work is the only thing that makes me happy right now because I don't feel worthless at all in here"** :smile:
+
+[Net Settings](NetSettings.md)
