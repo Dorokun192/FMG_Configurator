@@ -17,6 +17,8 @@ https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
 Another great tool from GitHub for implementing IP addresses to be used by the software. Made some changes to fully utilize this tool.
 https://github.com/RuvenSalamon/IP-MaskedTextBox
 
+## Wiki
+A sort-of simple tutorial provided [here](https://github.com/Dorokun192/FMG_Configurator/wiki/Getting-Started).
 
 ## Know-hows
 To make this software, we need to have an understanding of serial communication, MODBUS protocol, and RTCU IDE for co-implementation with NX-400.
