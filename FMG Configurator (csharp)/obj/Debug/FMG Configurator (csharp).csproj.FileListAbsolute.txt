@@ -1,0 +1,33 @@
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\MainWindow.g.cs
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\ModbusCard.g.cs
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\ModbusSettings.g.cs
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\NetSettings.g.cs
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\SerialSettings.g.cs
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\UserControl1.g.cs
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\App.g.cs
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\FMG Configurator (csharp)_MarkupCompile.cache
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\FMG Configurator (csharp)_MarkupCompile.lref
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\bin\Debug\FMG Configurator (csharp).exe.config
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\bin\Debug\FMG Configurator (csharp).exe
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\bin\Debug\FMG Configurator (csharp).pdb
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\bin\Debug\IPtextbox.dll
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\bin\Debug\MaterialDesignColors.dll
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\bin\Debug\MaterialDesignColors.pdb
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\App.baml
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\MainWindow.baml
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\ModbusCard.baml
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\ModbusSettings.baml
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\NetSettings.baml
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\SerialSettings.baml
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\UserControl1.baml
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\FMG Configurator (csharp).g.resources
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\FMG_Configurator__csharp_.Properties.Resources.resources
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\FMG Configurator (csharp).csproj.GenerateResource.cache
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\FMG Configurator (csharp).csproj.CopyComplete
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\FMG Configurator (csharp).exe
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\FMG Configurator (csharp).pdb
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\Debug\FMG Configurator (csharp).csprojAssemblyReference.cache

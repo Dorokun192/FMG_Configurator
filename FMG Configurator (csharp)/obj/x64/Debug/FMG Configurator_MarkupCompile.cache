@@ -1,0 +1,20 @@
+﻿FMG Configurator
+
+
+winexe
+C#
+.cs
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\obj\x64\Debug\
+FMG_Configurator
+none
+false
+DEBUG;TRACE
+C:\Users\LINKWISE\Documents\VSProjects\FMG Configurator (csharp)\App.xaml
+6-153854136
+
+11-346139059
+16-1996736532
+MainWindow.xaml;ModbusCard.xaml;ModbusSettings.xaml;NetSettings.xaml;SerialSettings.xaml;UserControl1.xaml;
+
+False
+
