@@ -23,7 +23,7 @@ To make this software, we need to have an understanding of serial communication,
 
 ## Screenshots
 
-![main](img/mainwindow2.png "Main Window") ![serial](img/serialsettings2.png "Serial Settings")
+![main](img/MainWindow2.png "Main Window") ![serial](img/SerialSettings2.png "Serial Settings")
 
 ![net](img/LanNetSettings.png "Network settings")
 ![modbus](img/Modbus_Devices.png "Modbus settings")
