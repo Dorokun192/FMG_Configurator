@@ -1,6 +1,6 @@
 # IPMaskedTextBox
 
-This user control is essential for capturing IP address-style data from the user. I borrowed the userControl from <a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated">here</a>. Hats off to the author, because of him, I had a better understanding of how a userControl works, and how it can be reused.
+This user control is essential for capturing IP address-style data from the user. I borrowed the userControl from <a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/dotnet/csharp/language-reference/tokens/interpolated">here</a>. Hats off to the author, because of him, I had a better understanding of how a userControl works, and how it can be reused.
 
 What I will post here are the changes that I've made on the code-behind. I tailored it so that it can be used easier or as I prefer to use it. You can now clone the code from the Github link above. Then we'll proceed on what changes I've made to it.
 
