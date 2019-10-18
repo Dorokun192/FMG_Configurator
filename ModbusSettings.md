@@ -4,6 +4,8 @@ This is the window where I got the hardest time to code, as it is quite difficul
 ## 1. UI(xaml)
 For now, I'm going to skip the window and other stuff. This time, what I'm going to apply is placing a ModbusCard element.
 
+[How to make ModbusCard](ModbusCard.md)
+
 They are placed inside a `<StackPanel>` set the orientation to Horizontal, and the height slightly greater than to the card height.
 ```xml
 <StackPanel Orientation="Horizontal" Height="428" Margin="5">

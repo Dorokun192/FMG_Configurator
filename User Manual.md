@@ -8,30 +8,30 @@ Before starting the software, you must connect the device to your PC using a ser
 
 Upon starting the software, you will be prompted with serial parameters. This must be the same with your device.
 
-![](img/serialsettings.png "Serial Settings")
+![](img/SerialSettings.png "Serial Settings")
 
 Select the COM port where your serial cable is connected, then set other parameters to be the same as your device. Make sure that all parameters have values before clicking **Apply** button.
 
 ## Main Window
 Once the serial parameters have been applied, the main window will pop up.
-![](img/mainwindow2.png "Main Window not connected")
+![](img/MainWindow2.png "Main Window not connected")
 
 Please follow the instruction and when done, this will change into this:
 
-![](img/mainwindow.png "Main Window connected")
+![](img/MainWindow.png "Main Window connected")
 
 To close the software, click on *File* menu and click on *Exit*. You will be prompted if your sure, click *Yes*.
 
-![](img/exit.png)
+![](img/EXIT.png)
 
 ## Network Settings
 Click on the *Net. Settings* button, and this window will pop up.
 
-![](img/netsettings.png)
+![](img/NetSettings.png)
 
 First, click on *Serial Menu* and click *Open*. Once done, this all buttons will be enabled.
 
-![](img/lannetsettings.png)
+![](img/LanNetSettings.png)
 
 Fill up all needed information if necessary, then click *Apply* if you want to send only data from the selected tab, or *OK* if you want to send all data to the device. 
 
@@ -40,7 +40,7 @@ To close serial connection between device and PC, click on *Serial* menu and cli
 ## Modbus Configuration
 In the main window, click on *Modbus* button to open modbus configuration window.
 
-![](img/modbusdevices.png)
+![](img/ModbusDevices.png)
 
 Click *Serial* menu and click *Open* to enable buttons and cards.
 
@@ -56,7 +56,7 @@ You can edit the name per each tag address as preferred.
 
 Once done with the selection, you can now click *Save* to send all data to your device. You can send only 1 device, or can send all device parameters.
 
-![](img/modbus2.png)
+![](img/Modbus2.png)
 
 To close the serial connection, click *Serial* and click *Close*.
 

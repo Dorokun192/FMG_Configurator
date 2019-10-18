@@ -1,5 +1,5 @@
 # Modbus Card
-We will discuss here on how to create a userControl to be used in the ModbusSettings windows. I won't go deep here on how to use a userControl because there are so many tutorials online, but in case you need any links <a target="_blank" rel="noopener noreferrer" href="https://wpf-tutorial.com/usercontrols-and-customcontrols/creating-using-a-usercontrol/"> click here</a> and  <a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.usercontrol?view=netframework-4.8">here</a>.
+We will discuss here on how to create a userControl to be used in the ModbusSettings windows. I won't go deep here on how to use a userControl because there are so many tutorials online, but in case you need any links <a target="_blank" rel="noopener noreferrer" href="https://wpf-tutorial.com/usercontrols-and-customcontrols/creating-using-a-usercontrol/"> click here</a> and  <a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/dotnet/api/system.windows.controls.usercontrol?view=netframework-4.8">here</a>.
 
 Let's proceed.
 

@@ -4,7 +4,7 @@ This window will handle all events related to network and MQTT connection.
 First of all, I want to congratulate you for getting this far, it means that you really want to learn about this software. Have you patted yourself on the back? Good. Let's proceed.
 
 ## Prerequisite
-You must first create a userControl for your IPMaskTextBox. This is also critical. Go to IPMaskedTextBox.md before continuing right here.
+You must first create a userControl for your IPMaskTextBox. This is also critical. Go to [IPMaskTextBox.md](IPMaskTextBox.md) before continuing right here.
 
 The next prerequisite is that you know what are the groupings of the parameters, such as for DCHP, inside it has the IP address, Subnet Mask, and Gateway. Then for DNS, it has DNS1 and DNS2. This is important for creating the UI later. I will not show the xaml code exactly but you'll get the picture of how it should look like. Also, again, the whole source code will be included together with this documentation.
 
@@ -76,7 +76,7 @@ Title="NetSettings" Height="695.871" Width="302.239" ResizeMode="NoResize" Closi
 ```
 Good, after all of that, your UI should look like this:
 
-![](img/netsettings.png "Network Settings")
+![](img/NetSettings.png "Network Settings")
 
 ## 2. CODE-BEHIND (.xaml.cs)
 
@@ -150,7 +150,7 @@ private void SendStrings(int a, int b)
             serportNet.Write($"\r{i}*{fmg[i]}\n");
 }
 ```
-> The content of the Write method is critical for sending data to the device. Here we encapsulate the message with \r (Carriage Return) and end it with \n (NewLine). *i* stands for the ID of the message, and is critical for identification in NX-400. **Be careful in remembering the ID as the ID in here is similar to the ID to be used in NX-400 for it to be placed in the right address**. Also, I implemented <a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated">string interpolation</a> to make the format easier to understand through the eyes of the developer.
+> The content of the Write method is critical for sending data to the device. Here we encapsulate the message with \r (Carriage Return) and end it with \n (NewLine). *i* stands for the ID of the message, and is critical for identification in NX-400. **Be careful in remembering the ID as the ID in here is similar to the ID to be used in NX-400 for it to be placed in the right address**. Also, I implemented <a target="_blank" rel="noopener noreferrer" href="https://docs.microsoft.com/dotnet/csharp/language-reference/tokens/interpolated">string interpolation</a> to make the format easier to understand through the eyes of the developer.
 ---
 
 Settings Apply
@@ -325,4 +325,4 @@ private void SerialClose_Click(object sender, RoutedEventArgs e)
     CloseButton.IsEnabled = false;
 }
 ```
-We're done! Hats off to you for finishing it on your own! I'm so proud of you. Next up, we will tackle the last window, ModbusSettings. Goodluck!
+We're done! Hats off to you for finishing it on your own! I'm so proud of you. Next up, we will tackle the last window, [ModbusSettings](ModbusSettings.md). Goodluck!

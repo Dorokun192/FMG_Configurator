@@ -60,7 +60,7 @@ We also need to add items to other comboboxes. Here is the clue for how to do it
 
 This is the end look of the UI:
 
-![](img/serialsettings.png "Serial Settings UI")
+![](img/SerialSettings.png "Serial Settings UI")
 
 ## 2. Code-behind
 For every xaml file there is a code-behind file, this is where the cool stuff happens. 
@@ -229,3 +229,5 @@ Set this event to the comboboxitems of the ParityComboBox. Use "Selected" event 
 
 Congratulations! Now we're finished with the **SerialSettings** window. 1 down, 5 to go!
 On to the next window, my faithful adventurer!
+
+[Main Window](MainWindow.md)
