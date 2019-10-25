@@ -1,0 +1,32 @@
+﻿<Window x:Name="mainWin" x:Class="FMG_Configurator__csharp_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Title="MainWindow" Height="294" Width="281" ResizeMode="CanMinimize" SizeToContent="WidthAndHeight" Loaded="MainWin_Loaded" Closing="MainWin_Closing" WindowStartupLocation="CenterScreen" Icon="Images/favicon.ico" Topmost="True" WindowStyle="ToolWindow" >
+    <Grid>
+        <DockPanel Height="39" LastChildFill="False" VerticalAlignment="Top" Margin="0,0,0,0">
+            <Menu DockPanel.Dock="Top" Height="39" HorizontalAlignment="Left" Width="274" Margin="0,0,0,0">
+                <MenuItem Header="_File" FontSize="12" SnapsToDevicePixels="True" Height="39"   >
+                    <MenuItem Header="_New" />
+                    <MenuItem Header="_Open" />
+                    <MenuItem Header="_Save" />
+                    <Separator />
+                    <MenuItem Header="_Exit" Name="ExitButton" Click="ExitButton_Click" />
+                </MenuItem>
+                <MenuItem Header="_Settings" SnapsToDevicePixels="True" Height="39">
+                    <MenuItem Header="_Serial" x:Name="SerialMenuItem" Click="SerialMenuItem_Click"/>
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <Image Height="51" Margin="10,44,10,0" VerticalAlignment="Top" Source="Images/90X90.PNG"/>
+        <Button x:Name="NetworkSettingsButton" Content="Net. Settings" HorizontalAlignment="Left" Margin="10,131,0,102" Width="120" Height="Auto" IsEnabled="False" Click="NetworkSettingsButton_Click"/>
+        <Label Content="Device ID:" HorizontalAlignment="Left" Margin="10,100,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="DevIDTextBlock" HorizontalAlignment="Left" Margin="77,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="DevID"/>
+        <Button x:Name="ModbusSettingsButton" Content="Modbus" Margin="144,131,10.4,102" Height="Auto" IsEnabled="False" Click="ModbusSettingsButton_Click"/>
+        <TextBlock x:Name="Instruction" HorizontalAlignment="Left" Margin="17,186,0,0" TextWrapping="Wrap" Text="Please click the 'CONFIGURE' button in the device." Style="{StaticResource MaterialDesignSubheadingTextBlock}" VerticalAlignment="Top" Width="238" TextAlignment="Center"/>
+    </Grid>
+</Window>
